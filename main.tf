@@ -12,7 +12,7 @@
 		}
 		
 		owners	=	["637423663107"] # bitnami
-		
+	}
 	data	"aws_vpc"	"default"{
 		default	=	true
 		}
